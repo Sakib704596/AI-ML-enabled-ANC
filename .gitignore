@@ -1,0 +1,11 @@
+anc-env/
+__pycache__/
+*.pyc
+data/raw/
+data/simulated/
+data/real_clipped/
+checkpoints/
+mlruns/
+*.wav
+*.npy
+.DS_Store
